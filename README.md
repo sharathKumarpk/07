@@ -1,0 +1,9 @@
+# EXCUSER APP
+# TECHNOLIGIES USED
+* HTML
+* CSS
+* JAVASCRIPT
+* REACT
+* AXIOS
+
+![ss](./Screenshot%20(7).png)
